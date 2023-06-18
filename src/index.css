@@ -14,8 +14,6 @@
   -webkit-text-size-adjust: 100%;
 }
 
-
-
 body {
   margin: 0;
   display: flex;
@@ -40,9 +38,11 @@ button {
   cursor: pointer;
   transition: border-color 0.25s;
 }
+
 button:hover {
   border-color: #646cff;
 }
+
 button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
