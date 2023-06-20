@@ -16,5 +16,7 @@ O que aprendi com esse projeto:
 
 - Arrow functions são incrivelmente úteis.
 
+- Para usar o state, devemos importá-lo da biblioteca 'React'.
+
 
 
