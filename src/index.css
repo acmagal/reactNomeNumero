@@ -12,7 +12,12 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
+  background-image: url(/public/2545.jpg);
 }
+
+
+
+
 
 body {
   margin: 0;
